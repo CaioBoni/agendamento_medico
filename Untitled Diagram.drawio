@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T02:59:06.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="3haAU-Tn6gLHDmxffLJP" version="12.3.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-03T02:59:23.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="jwTD3vJQTTVqj-YjX-EF" version="12.3.5" type="github" pages="1">
   <diagram id="QFaych85ZG0VaQsIKV3E" name="Page-1">
     <mxGraphModel dx="5543" dy="2633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -182,7 +182,7 @@
           <mxGeometry x="-300" y="1020" width="305" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="j8hB8es19KLFHc6PdqS8-70" value="" style="shape=component;align=left;spacingLeft=36;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="33" y="1000" width="1738" height="790" as="geometry"/>
+          <mxGeometry x="33" y="1000" width="1738" height="390" as="geometry"/>
         </mxCell>
         <mxCell id="6EtjrWwbFe3XrMgIN223-4" value="HospitalModel" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1530" y="316" width="200" height="112" as="geometry"/>
